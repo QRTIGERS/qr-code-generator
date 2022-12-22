@@ -144,4 +144,4 @@ Method -- POST
 | |	|	14|[![](https://media.qrtiger.com/static/img/Home/Frames/14.svg)](https://www.qrcode-tiger.com/static/img/Api/qr_example_5.png) | 
 | |	|	15|[![](https://media.qrtiger.com/static/img/Home/Frames/15.svg)](https://www.qrcode-tiger.com/static/img/Api/qr_example_5.png) | 
 
-## Visit [QRTIGER](https://www.qrcode-tiger.com) for dynamic [QR code generator](https://www.qrcode-tiger.com) and learn more about QR
+## Visit QRTIGER for dynamic [QR code generator](https://www.qrcode-tiger.com) and learn more about QR
